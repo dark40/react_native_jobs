@@ -19,9 +19,9 @@ Please feel free to clone the git repo and play with it.
 ## Notes
 
 - This app is under a free api subscription. Only 200 requests/month allowed. 
-- I run out all the attempts in this month (Aug 2023). Therefore, more functioning screenshots will be uploaded next month. 
+- I ran out all the attempts in this month (Aug 2023). Therefore, more functioning screenshots will be uploaded next month. 
 
-<img src="/react_native_jobs/assets/images/error_home.PNG" width="300">
-<img src="/react_native_jobs/assets/images/error_job.PNG.PNG" width="300">
+![error](/react_native_jobs/assets/images/error_home.jpg)
+![error](/react_native_jobs/assets/images/error_job.jpg)
 
 
