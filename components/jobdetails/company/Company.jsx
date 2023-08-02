@@ -9,6 +9,8 @@ import { checkImageURL } from '../../../utils'
 const Company = ({companyLogo, jobTitle, companyName, location}) => {
   return (
     <View style={styles.container}>
+
+      {/* Company Logo */}
       <View style={styles.logoBox}>
         <Image
           source={{
@@ -20,10 +22,12 @@ const Company = ({companyLogo, jobTitle, companyName, location}) => {
         />
       </View>
 
+      {/* Job Title */}
           <View style={styles.jobTitleBox}>
             <Text style={styles.jobTitle}>{jobTitle}</Text>
           </View>
 
+      {/* Company Name and Location */}
           <View style={styles.companyInfoBox}>
             <Text style={styles.companyName}>{companyName} </Text>
             <View style={styles.locationBox}>
