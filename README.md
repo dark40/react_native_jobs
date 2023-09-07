@@ -19,9 +19,8 @@ Please feel free to clone the git repo and play with it.
 ## Notes
 
 - This app is under a free api subscription. Only 200 requests/month allowed. 
-- I ran out all the attempts in this month (Aug 2023). Therefore, more functioning screenshots will be uploaded next month. 
 
-![error](./assets/images/error_home.png)
-![error](./assets/images/error_job.png)
+![error](./assets/images/home-reduced-size.png)
+![error](./assets/images/jobs-reduced-size.png)
 
 
